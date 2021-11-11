@@ -3,6 +3,7 @@
 Open Source Curriculum for CNCF Certification Courses
 
 This is the latest version of the curriculum for the following CNCF exams:
+new line
 
 * Certified Kubernetes Administrator (CKA)
 * Certified Kubernetes Application Developer (CKAD)
